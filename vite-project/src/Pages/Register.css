@@ -1,0 +1,12 @@
+.ant-btn-variant-solid {
+    color: #fff;
+    background: #23262b;
+    
+}
+
+:where(.css-dev-only-do-not-override-kk2c0l).ant-input-outlined {
+    background: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(73, 71, 71);
+}
